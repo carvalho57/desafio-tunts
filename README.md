@@ -13,3 +13,6 @@
 dotnet restore //Para restaurar os pacotes
 dotnet run // Para executar o app
 ```
+# Links
+
+[Planilha](https://docs.google.com/spreadsheets/d/1lBnje8ltjsJysgougqYtKaeBoRa3g6MWHR812xJj2QY/edit#gid=0)
